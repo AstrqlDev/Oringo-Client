@@ -8,3 +8,6 @@ Features
 
 Discord
 + https://discord.gg/tKaGNxhCjt
+
+Download
++ https://github.com/AstrqlDev/Oringo-Client/releases/tag/Release
