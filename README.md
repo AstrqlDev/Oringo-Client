@@ -1,5 +1,7 @@
 # Origno-Client
 
+REGARDING SKYTILS USERS: https://imgur.com/a/N8ckKlD <---
+
 Features
 
 - Macros (Foraging, Netherwart, etc)
