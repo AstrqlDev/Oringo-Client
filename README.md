@@ -3,11 +3,11 @@
 Features
 
 - Macros (Foraging, Netherwart, etc)
-- Terminal Solver
+- Terminal Aura
 - QOL Features
 
 Discord
-+ https://discord.gg/tKaGNxhCjt
++ AstrqlDev#1402
 
 Download
 + https://github.com/AstrqlDev/Oringo-Client/releases/tag/Release
